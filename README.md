@@ -3,7 +3,7 @@
   <h1>
     Hi there, I'm J.K. 👋
   </h1>
-  <h3>A passionate developer from Japan 🇯🇵</h3>
+  <h3>A passionate developer from Kyoto of Japan 🇯🇵</h3>
 </div>
 
 ---
