@@ -10,10 +10,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ... (現在取り組んでいるプロジェクトなど)
-- 🌱 I’m currently learning ... (学習中の技術など)
+- 🎓 I'm a 4th-year university student in Japan, majoring in Computer Science.
+- 📱 Currently, I'm passionate about developing mobile applications for both iOS and Android.
 - 💬 Ask me about **Python, TypeScript, and Web Development**
-- 📫 How to reach me: (ここにメールアドレスやSNSアカウントなどを記載)
 
 ---
 
