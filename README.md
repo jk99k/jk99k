@@ -19,7 +19,7 @@
 
 ### 🚀 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,django,dockerfastapi,figma,flutter,git,github,heroku,html,js,kotlin,linux,mysql,nextjs,nginx,npm,pnpm,postgres,py,rails,react,redis,redux,ruby,sqlite,sentry,swift,tailwind,ts,ubuntu,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bootstrap,django,docker,fastapi,figma,flutter,git,github,heroku,html,js,kotlin,linux,mysql,nextjs,nginx,npm,pnpm,postgres,py,rails,react,redis,redux,ruby,sqlite,sentry,swift,tailwind,ts,ubuntu,vscode,vue)](https://skillicons.dev)
 
 ---
 
