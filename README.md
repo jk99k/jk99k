@@ -30,6 +30,6 @@
 [![Top Langs](https://github-readme-stats-clone-theta-nine.vercel.app/api/top-langs/?username=jk99k&include_all_commits=true&show_icons=true
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jk99k&rank=SSS,SS,S,AAA,AA,A&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jk99k&rank=SSS,SS,S,AAA,AA,A&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)]
 
 </div>
