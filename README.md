@@ -20,7 +20,7 @@
 
 ### Languages and Tools
 
-<img alt="my skills" src="https://skillicons.dev/icons?i=aws,bootstrap,django,docker,fastapi,figma,gcp,git,github,go,heroku,html,js,kotlin,linux,mysql,nextjs,nginx,npm,pnpm,postgres,py,rails,react,redis,ruby,sqlite,sentry,swift,ts,ubuntu,vscode"/>
+<img alt="my skills" src="https://skillicons.dev/icons?i=aws,django,docker,fastapi,figma,gcp,git,github,go,heroku,html,js,kotlin,linux,mysql,nextjs,nginx,npm,pnpm,postgres,py,rails,react,redis,ruby,sqlite,sentry,swift,ts,ubuntu,vscode"/>
 
 ---
 
